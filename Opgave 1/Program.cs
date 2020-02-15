@@ -21,9 +21,8 @@ namespace Opgave_1
             
             
             
-            //Spoiler Alert for code
+            /*Spoiler Alert for code
 
-            /*
             int valA;           //Int
             int valB;           //_int 
             int valSum = 0;     //int_ -> Int_
