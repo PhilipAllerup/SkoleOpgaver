@@ -1,2 +1,2 @@
 # SkoleOpgaver
-Opgaver som jeg laver i forhold til skole :)
+Fatter ikk helt der her github, sry hvis det er rodet :(
