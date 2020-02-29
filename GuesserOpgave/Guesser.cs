@@ -13,6 +13,7 @@ namespace GuesserOpgave
 
         static void Main(string[] args)
         {
+            
 
             string chosenName = null;
             int minVal = 1;
